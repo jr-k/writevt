@@ -1,5 +1,5 @@
 # writevt
-writevt with hex capability
+Send stringg or hex commands to another process
 
 ```
 writevt /dev/tty0 "my_string_command"
