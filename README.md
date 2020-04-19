@@ -9,4 +9,4 @@ or
 writevt /dev/tty0 "0x20" # sends a space key command
 ```
 
-> Prebuilt binary available, built on a raspberry pi 3b+ 
+> A prebuilt binary is available (from a raspberry pi 3b+)
